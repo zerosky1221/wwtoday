@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zerosky1221.github.io/wwtoday/sitemap.xml
